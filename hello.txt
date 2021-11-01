@@ -1,1 +1,8 @@
-hi
+master
+	release
+		feature 1
+			story 1 - A
+			story 2 - B
+		feature 2
+			story 3
+			story 4
